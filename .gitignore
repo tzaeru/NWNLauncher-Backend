@@ -27,4 +27,7 @@ build/Release
 node_modules
 
 # The secret config file
-*.config.toml
+config.toml
+
+# Backup files
+*~

@@ -1,0 +1,457 @@
+server_ip = "104.155.20.124:5121"
+
+[[files]]
+name = "cep2_add_doors.hak"
+version = 1
+url = "~hak/cep2_add_doors.hak"
+target_dir = "hak"
+target_file = "cep2_add_doors.hak"
+checksum = "555889644a83c4ceaabf7f8f27c762be"
+
+[[files]]
+name = "cep2_add_loads.hak"
+version = 1
+url = "~hak/cep2_add_loads.hak"
+target_dir = "hak"
+target_file = "cep2_add_loads.hak"
+checksum = "03f0a763fa1c4f15366ee3dda86bfc58"
+
+[[files]]
+name = "cep2_add_phenos1.hak"
+version = 1
+url = "~hak/cep2_add_phenos1.hak"
+target_dir = "hak"
+target_file = "cep2_add_phenos1.hak"
+checksum = "9caf19d56962beca10e34fc87976c097"
+
+[[files]]
+name = "cep2_add_phenos2.hak"
+version = 1
+url = "~hak/cep2_add_phenos2.hak"
+target_dir = "hak"
+target_file = "cep2_add_phenos2.hak"
+checksum = "65aab2127ee5107e3942ee497d4a7281"
+
+[[files]]
+name = "cep2_add_phenos3.hak"
+version = 1
+url = "~hak/cep2_add_phenos3.hak"
+target_dir = "hak"
+target_file = "cep2_add_phenos3.hak"
+checksum = "3ba55634413a32f3a6dda6aba5711308"
+
+[[files]]
+name = "cep2_add_phenos4.hak"
+version = 1
+url = "~hak/cep2_add_phenos4.hak"
+target_dir = "hak"
+target_file = "cep2_add_phenos4.hak"
+checksum = "36764708166e4b9b8a9f4ff1a7db0e41"
+
+[[files]]
+name = "cep2_add_phenos5.hak"
+version = 1
+url = "~hak/cep2_add_phenos5.hak"
+target_dir = "hak"
+target_file = "cep2_add_phenos5.hak"
+checksum = "bacf11bf3b047105efa805b99beb7ca6"
+
+[[files]]
+name = "cep2_add_races_A.hak"
+version = 1
+url = "~hak/cep2_add_races_A.hak"
+target_dir = "hak"
+target_file = "cep2_add_races_A.hak"
+checksum = "07b6a0554690fa9cbf357133caa49a79"
+
+[[files]]
+name = "cep2_add_rules.hak"
+version = 1
+url = "~hak/cep2_add_rules.hak"
+target_dir = "hak"
+target_file = "cep2_add_rules.hak"
+checksum = "29fe4a71a35a9c7e2b27ed05dfced24c"
+
+[[files]]
+name = "cep2_add_sb_v1.hak"
+version = 1
+url = "~hak/cep2_add_sb_v1.hak"
+target_dir = "hak"
+target_file = "cep2_add_sb_v1.hak"
+checksum = "99de464d197e2373f0fe604b0f1ddf99"
+
+[[files]]
+name = "cep2_add_skies.hak"
+version = 1
+url = "~hak/cep2_add_skies.hak"
+target_dir = "hak"
+target_file = "cep2_add_skies.hak"
+checksum = "8c6b53324cdc54c18c94ccfe74955a85"
+
+[[files]]
+name = "cep2_add_tiles.hak"
+version = 1
+url = "~hak/cep2_add_tiles.hak"
+target_dir = "hak"
+target_file = "cep2_add_tiles.hak"
+checksum = "358885119b50cdd445caf8f8f0996b1c"
+
+[[files]]
+name = "cep2_add_tiles1.hak"
+version = 1
+url = "~hak/cep2_add_tiles1.hak"
+target_dir = "hak"
+target_file = "cep2_add_tiles1.hak"
+checksum = "41524617e6c4e9cc5bb74738cb4aed92"
+
+[[files]]
+name = "cep2_add_tiles2.hak"
+version = 1
+url = "~hak/cep2_add_tiles2.hak"
+target_dir = "hak"
+target_file = "cep2_add_tiles2.hak"
+checksum = "47ada969cdb62d9c89da505723233e3f"
+
+[[files]]
+name = "cep2_build.hak"
+version = 1
+url = "~hak/cep2_build.hak"
+target_dir = "hak"
+target_file = "cep2_build.hak"
+checksum = "805886fb1ee404cb1340f118853f6d72"
+
+[[files]]
+name = "cep2_core0.hak"
+version = 1
+url = "~hak/cep2_core0.hak"
+target_dir = "hak"
+target_file = "cep2_core0.hak"
+checksum = "8a95ed1cbe5e5f2ead13656ff41fd23e"
+
+[[files]]
+name = "cep2_core1.hak"
+version = 1
+url = "~hak/cep2_core1.hak"
+target_dir = "hak"
+target_file = "cep2_core1.hak"
+checksum = "4202555952ad04adfd0dafcafed97875"
+
+[[files]]
+name = "cep2_core2.hak"
+version = 1
+url = "~hak/cep2_core2.hak"
+target_dir = "hak"
+target_file = "cep2_core2.hak"
+checksum = "b2211c030e2d46626d2fbc2bfa06b8d5"
+
+[[files]]
+name = "cep2_core3.hak"
+version = 1
+url = "~hak/cep2_core3.hak"
+target_dir = "hak"
+target_file = "cep2_core3.hak"
+checksum = "9e850a1de00d03186270f62e581006ff"
+
+[[files]]
+name = "cep2_core4.hak"
+version = 1
+url = "~hak/cep2_core4.hak"
+target_dir = "hak"
+target_file = "cep2_core4.hak"
+checksum = "c6e4dfc4db9ed05823836e64a9340319"
+
+[[files]]
+name = "cep2_core5.hak"
+version = 1
+url = "~hak/cep2_core5.hak"
+target_dir = "hak"
+target_file = "cep2_core5.hak"
+checksum = "73ce5d01af353febe7d4ef4bfdaee3ad"
+
+[[files]]
+name = "cep2_core6.hak"
+version = 1
+url = "~hak/cep2_core6.hak"
+target_dir = "hak"
+target_file = "cep2_core6.hak"
+checksum = "438252513faebd1451767a52756d4580"
+
+[[files]]
+name = "cep2_core7.hak"
+version = 1
+url = "~hak/cep2_core7.hak"
+target_dir = "hak"
+target_file = "cep2_core7.hak"
+checksum = "04550ee4a6f7bd7f9dec1b6a55ee8727"
+
+[[files]]
+name = "cep2_crp.hak"
+version = 1
+url = "~hak/cep2_crp.hak"
+target_dir = "hak"
+target_file = "cep2_crp.hak"
+checksum = "e99e7e6e7d7e7362b6678c413eda82f5"
+
+[[files]]
+name = "cep2_crp_s.hak"
+version = 1
+url = "~hak/cep2_crp_s.hak"
+target_dir = "hak"
+target_file = "cep2_crp_s.hak"
+checksum = "e57746ee8c8411d47ff8277e4a6fd3a6"
+
+[[files]]
+name = "cep2_custom.hak"
+version = 1
+url = "~hak/cep2_custom.hak"
+target_dir = "hak"
+target_file = "cep2_custom.hak"
+checksum = "3e3cce115a844aada4872cd5fad2b986"
+
+[[files]]
+name = "cep2_ext_tiles.hak"
+version = 1
+url = "~hak/cep2_ext_tiles.hak"
+target_dir = "hak"
+target_file = "cep2_ext_tiles.hak"
+checksum = "58f2f525230107b50b684b2e7f5f3d1f"
+
+[[files]]
+name = "cep2_patch_v22b.hak"
+version = 1
+url = "~hak/cep2_patch_v22b.hak"
+target_dir = "hak"
+target_file = "cep2_patch_v22b.hak"
+checksum = "c6a2ae12c04d593038a19d5519f99499"
+
+[[files]]
+name = "cep2_patch_v22c.hak"
+version = 1
+url = "~hak/cep2_patch_v22c.hak"
+target_dir = "hak"
+target_file = "cep2_patch_v22c.hak"
+checksum = "6387661378851ce57953f5758c280208"
+
+[[files]]
+name = "cep2_top_v1.hak"
+version = 1
+url = "~hak/cep2_top_v1.hak"
+target_dir = "hak"
+target_file = "cep2_top_v1.hak"
+checksum = "c8cc59e1c5e66f9b2e5226943e4aa9ed"
+
+[[files]]
+name = "cep2_top_v21.hak"
+version = 1
+url = "~hak/cep2_top_v21.hak"
+target_dir = "hak"
+target_file = "cep2_top_v21.hak"
+checksum = "bfd1209234cac02e80352bc7268b17c8"
+
+[[files]]
+name = "cep2_top_v22.hak"
+version = 1
+url = "~hak/cep2_top_v22.hak"
+target_dir = "hak"
+target_file = "cep2_top_v22.hak"
+checksum = "78d6d2ad8c8c30e82d99d3a7218cf398"
+
+[[files]]
+name = "cep2_top_v22b.hak"
+version = 1
+url = "~hak/cep2_top_v22b.hak"
+target_dir = "hak"
+target_file = "cep2_top_v22b.hak"
+checksum = "b937def906c08c7006fadc5de2835439"
+
+[[files]]
+name = "cep2_top_v23.hak"
+version = 1
+url = "~hak/cep2_top_v23.hak"
+target_dir = "hak"
+target_file = "cep2_top_v23.hak"
+checksum = "78d6d2ad8c8c30e82d99d3a7218cf398"
+
+[[files]]
+name = "cep2_top_v24.hak"
+version = 1
+url = "~hak/cep2_top_v24.hak"
+target_dir = "hak"
+target_file = "cep2_top_v24.hak"
+checksum = "37df85d7332c9db67d1c48e8c3d302f1"
+
+[[files]]
+name = "ctp_common.hak"
+version = 1
+url = "~hak/ctp_common.hak"
+target_dir = "hak"
+target_file = "ctp_common.hak"
+checksum = "69118b950eeffe13c68b164b3a833702"
+
+[[files]]
+name = "ctp_elf_interior.hak"
+version = 1
+url = "~hak/ctp_elf_interior.hak"
+target_dir = "hak"
+target_file = "ctp_elf_interior.hak"
+checksum = "0d1d27204b9535fe5770a8ce39e97d89"
+
+[[files]]
+name = "ctp_exp_elf_city.hak"
+version = 1
+url = "~hak/ctp_exp_elf_city.hak"
+target_dir = "hak"
+target_file = "ctp_exp_elf_city.hak"
+checksum = "15398f7da74c5417c12555eebfb6548d"
+
+[[files]]
+name = "ctp_goth_estate.hak"
+version = 1
+url = "~hak/ctp_goth_estate.hak"
+target_dir = "hak"
+target_file = "ctp_goth_estate.hak"
+checksum = "6f99c8459fb54d5285bc16bd3edbfff9"
+
+[[files]]
+name = "ctp_goth_int.hak"
+version = 1
+url = "~hak/ctp_goth_int.hak"
+target_dir = "hak"
+target_file = "ctp_goth_int.hak"
+checksum = "ec6242d7c9d41150777958647d815c9a"
+
+[[files]]
+name = "ctp_loadscreens.hak"
+version = 1
+url = "~hak/ctp_loadscreens.hak"
+target_dir = "hak"
+target_file = "ctp_loadscreens.hak"
+checksum = "531912b24db21f2827e4ab1a9cbec77e"
+
+[[files]]
+name = "rl_2da_v195b.hak"
+version = 1
+url = "~hak/rl_2da_v195b.hak"
+target_dir = "hak"
+target_file = "rl_2da_v195b.hak"
+checksum = "aae5710d3a25618149dd41c7fe6f421d"
+
+[[files]]
+name = "rl_addons.hak"
+version = 1
+url = "~hak/rl_addons.hak"
+target_dir = "hak"
+target_file = "rl_addons.hak"
+checksum = "b81e44e8b509e52988c518d02561ccae"
+
+[[files]]
+name = "rl_creatures.hak"
+version = 1
+url = "~hak/rl_creatures.hak"
+target_dir = "hak"
+target_file = "rl_creatures.hak"
+checksum = "6b3c4b335e2176051c3c00b2afc68457"
+
+[[files]]
+name = "rl_mountain.hak"
+version = 1
+url = "~hak/rl_mountain.hak"
+target_dir = "hak"
+target_file = "rl_mountain.hak"
+checksum = "c3893aeb2c984c45e553e7ce05a40252"
+
+[[files]]
+name = "rl_placeables.hak"
+version = 1
+url = "~hak/rl_placeables.hak"
+target_dir = "hak"
+target_file = "rl_placeables.hak"
+checksum = "9d72470d3097f25f28486f284c3c2c5a"
+
+[[files]]
+name = "rl_ruralcity.hak"
+version = 1
+url = "~hak/rl_ruralcity.hak"
+target_dir = "hak"
+target_file = "rl_ruralcity.hak"
+checksum = "d0dbd14da588513d62af51ca67094eb6"
+
+[[files]]
+name = "rl_tilesetaddons.hak"
+version = 1
+url = "~hak/rl_tilesetaddons.hak"
+target_dir = "hak"
+target_file = "rl_tilesetaddons.hak"
+checksum = "3b676ebc0dbf763be0c1cafcc3351a1e"
+
+[[files]]
+name = "rl_tiletextures.hak"
+version = 1
+url = "~hak/rl_tiletextures.hak"
+target_dir = "hak"
+target_file = "rl_tiletextures.hak"
+checksum = "864fc552cebfaa7e8b28ecd62285bdad"
+
+[[files]]
+name = "cep2_updater.erf"
+version = 1
+url = "~erf/cep2_updater.erf"
+target_dir = "erf"
+target_file = "cep2_updater.erf"
+checksum = "1648f9b2dbd90fda6854f10a7d5b75f7"
+
+[[files]]
+name = "cep_craft.erf"
+version = 1
+url = "~erf/cep_craft.erf"
+target_dir = "erf"
+target_file = "cep_craft.erf"
+checksum = "f842c005b2074df763f7d7daf035ef0e"
+
+[[files]]
+name = "cep21_v1.tlk"
+version = 1
+url = "~tlk/cep21_v1.tlk"
+target_dir = "tlk"
+target_file = "cep21_v1.tlk"
+checksum = "c400bacd79f9c06e3fe70d55048adc1f"
+
+[[files]]
+name = "cep22_v1.tlk"
+version = 1
+url = "~tlk/cep22_v1.tlk"
+target_dir = "tlk"
+target_file = "cep22_v1.tlk"
+checksum = "8280772cb11691ba42e20dd707563a5c"
+
+[[files]]
+name = "cep23_v1.tlk"
+version = 1
+url = "~tlk/cep23_v1.tlk"
+target_dir = "tlk"
+target_file = "cep23_v1.tlk"
+checksum = "8280772cb11691ba42e20dd707563a5c"
+
+[[files]]
+name = "cep2_v1.tlk"
+version = 1
+url = "~tlk/cep2_v1.tlk"
+target_dir = "tlk"
+target_file = "cep2_v1.tlk"
+checksum = "7a117099884ed587af87a2b92b24750a"
+
+[[files]]
+name = "ravenloft_1_95.tlk"
+version = 1
+url = "~tlk/ravenloft_1_95.tlk"
+target_dir = "tlk"
+target_file = "ravenloft_1_95.tlk"
+checksum = "1957b2be9e7d1a079c6b0f44d750ed40"
+
+[[files]]
+name = "zcepdatabase-an.bic"
+version = 1
+url = "~dmvault/zcepdatabase-an.bic"
+target_dir = "dmvault"
+target_file = "zcepdatabase-an.bic"
+checksum = "6ec93f3bc960cc5fd20a43af6be09ae6"

@@ -1,0 +1,17 @@
+server_ip = "104.155.20.124:5121"
+
+[[files]]
+name = "cep21_v1.tlk"
+version = 1
+url = "~tlk/cep21_v1.tlk"
+target_dir = "tlk"
+target_file = "cep21_v1.tlk"
+checksum = "c400bacd79f9c06e3fe70d55048adc1f"
+
+[[files]]
+name = "cep22_v1.tlk"
+version = 1
+url = "~tlk/cep22_v1.tlk"
+target_dir = "tlk"
+target_file = "cep22_v1.tlk"
+checksum = "8280772cb11691ba42e20dd707563a5c"
