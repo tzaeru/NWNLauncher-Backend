@@ -31,3 +31,12 @@ config.toml
 
 # Backup files
 *~
+
+# Extrafluent server files
+files/*
+!files/files.toml
+!files/index.html
+!files/upload_file.html
+!files/upload_file.js
+!files/file_list_generator.js
+!files/tar_gz_compresser.sh
